@@ -1,0 +1,20 @@
+- /public
+  - /css
+  - /js
+  - /images
+- /views
+  - index.html
+  - product.html
+  - cart.html
+  - checkout.html
+- /routes
+  - index.js
+  - product.js
+  - cart.js
+  - checkout.js
+- /models
+  - user.js
+  - product.js
+  - order.js
+- server.js
+- package.json
